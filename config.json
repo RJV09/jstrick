@@ -1,0 +1,9 @@
+{
+    "TOKEN": "MTIwMTcyMjcwNDMzNjUyMzMyOQ.GC92Nd.zRFRYxP8RqUUNdyh9DqOFS31TlWb6c8_iYi-Bk",
+    "MONGO_DB": "mongodb+srv://jingle:Jingle11557@cluster0.tl2a2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "cooldown": true,
+    "owner": ["760143551920078861","1243888482355511328"],
+    "admin": ["760143551920078861","1243888482355511328"],
+    "np": ["760143551920078861","1243888482355511328"],
+    "invite": "https://discord.com/oauth2/authorize?client_id=1308352313156440104&permissions=8&integration_type=0&scope=bot"
+}
